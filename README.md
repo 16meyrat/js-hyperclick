@@ -1,5 +1,9 @@
 # js-hyperclick package
 
+This is a fork of AsaAyers//js-hyperclick-project-path to provide the same functionalities as rohithb/js-hyperclick-project-path : absolute import relative to the project root and not to the system root.
+This is particulary useful when developping a Meteor application.
+
+
 A [hyperclick][hyperclick] provider that lets you jump to where variables are defined.
 
 ![screenshot]( https://raw.githubusercontent.com/AsaAyers/js-hyperclick/master/screenshots/Selection_107.png)
